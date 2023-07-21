@@ -1,4 +1,3 @@
-
 #include <stdio.h>
 #include "main.h"
 /**
@@ -33,5 +32,3 @@ printf("Remaining days: %d\n", 365 - day);
 }
 }
 }
-
-
